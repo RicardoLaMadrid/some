@@ -1,0 +1,14 @@
+<resources>
+<string name="app_name">Defensa Hito2</string>
+<string name="epidemia">Epidemia Corona Virus</string>
+<string name="cocha">Cochabamba</string>
+<string name="santa">Santa Cruz</string>
+<string name="oruro">Oruro</string>
+<string name="confirmados">Casos Confirmados</string>
+<string name="sospechosos">Casos Sospechosos</string>
+<string name="nrocasos">Nro de Casos</string>
+<string name="set">Set Values</string>
+<string name="busqueda">Ingrese Busqueda</string>
+<string name="calc">Calcular</string>
+<string name="respuesta">Respuesta</string>
+</resources>
