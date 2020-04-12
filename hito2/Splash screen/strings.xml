@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="subject">Cargando Aplicacion!!!</string>
+    <string name="greeting">Bienvenido a Army DRTy</string>
+    <string name="number1">Number A</string>
+    <string name="number2">Number B</string>
+    <string name="sum">SUMAR</string>
+    <string name="response">Respuesta:</string>
+</resources>
