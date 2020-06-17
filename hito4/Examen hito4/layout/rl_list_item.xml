@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:id="@+id/rlListItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorverde"
+    android:padding="12dp">
+    <de.hdodenhof.circleimageview.CircleImageView
+
+        android:id="@+id/civItem"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@mipmap/ic_launcher_round"
+
+
+        />
+   <TextView
+       android:id="@+id/tvImage"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+
+       android:layout_toRightOf="@id/civItem"
+       android:layout_centerVertical="true"
+       android:padding="8dp"
+       android:textColor="@color/colorWhite"
+       android:textSize="20dp"
+       android:layout_marginStart="45dp"
+       >
+
+   </TextView>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:background="@drawable/estilo_bordes"
+        android:backgroundTint="@color/colorWhite"
+        android:fontFamily="@font/baumans"
+        android:text="escuchar"
+        android:textColor="@color/colorverd"
+        android:textSize="20sp"
+
+        />
+</RelativeLayout>
